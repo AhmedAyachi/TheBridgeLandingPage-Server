@@ -1,0 +1,19 @@
+{
+    "name": "fastify-server",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "fastify server template",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "nodemon --experimental-json-modules src/index.js"
+    },
+    "dependencies": {
+        "@fastify/cors": "^8.5.0",
+        "fastify": "^4.24.0"
+    },
+    "author": "Ahmed Ayachi",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}

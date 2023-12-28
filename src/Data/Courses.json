@@ -1,0 +1,38 @@
+[
+    {
+        "id":"course0",
+        "name":"spring boot / angular",
+        "poster":"SpringAngularCourse_0.jpeg",
+        "price":350
+    },
+    {
+        "id":"course1",
+        "name":"node JS / react",
+        "poster":"NodeReactCourse_0.jpeg",
+        "price":350
+    },
+    {
+        "id":"course2",
+        "name":"flutter / firebase",
+        "poster":"FlutterFirebaseCourse_0.jpeg",
+        "price":350
+    },
+    {
+        "id":"course3",
+        "name":"business intelligence",
+        "poster":"BICourse_0.jpeg",
+        "price":350
+    },
+    {
+        "id":"course4",
+        "name":"artificial intelligence",
+        "poster":"AICourse_0.jpeg",
+        "price":350
+    },
+    {
+        "id":"course5",
+        "name":"devops",
+        "poster":"DevopsCourse_0.jpeg",
+        "price":350
+    }
+]
